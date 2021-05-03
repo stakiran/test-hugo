@@ -1,3 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://stakiran.github.io/test-hugo/"
 languageCode = "ja-jp"
 title = "Test Hugo by stakiran"
+
+# for ghpages
+publishDir = "docs"
+# apply to use baseurl forcely about nested-dir.
+canonifyurls = true
