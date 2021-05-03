@@ -1,5 +1,6 @@
 baseURL = "https://stakiran.github.io/test-hugo/"
 languageCode = "ja-jp"
+defaultContentLanguage = "jp"
 title = "Test Hugo by stakiran"
 
 # for ghpages
